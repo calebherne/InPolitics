@@ -1,0 +1,3 @@
+This repo is a wiki containing info about politics in the state of Indiana and within Hamilton county. It should be as concise as possible and primarily contain links and bullet point information rather than long paragraphs. There will be different It will be broken up into State, County, and City. You will help me research different positions. Each position must include the requirements to hold the position. How one can get elected to it. What is the rolls of this position and what powers does it possess. How long are the terms and when is it re-elected. 
+
+Remember your training data is out of date so you will need to use the internet to research the information being asked for.
