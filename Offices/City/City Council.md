@@ -61,6 +61,17 @@ Hamilton County cities use a mayor-council form of government with elected city 
 - Can create or eliminate city programs through budget
 - Veto override attempts can embarrass mayor
 
+## Current City Council Members (Carmel)
+- **President (At-Large)**: [Matthew Snyder](../../Profiles/City/City%20Council%20-%20Matthew%20Snyder%20(Carmel).md)
+- **Vice President (District 4)**: [Ryan Locke](../../Profiles/City/City%20Council%20-%20Ryan%20Locke%20(Carmel).md)
+- **Chaplain (District 1)**: [Teresa Ayers](../../Profiles/City/City%20Council%20-%20Teresa%20Ayers%20(Carmel).md)
+- **Parliamentarian (District 5)**: [Tony Green](../../Profiles/City/City%20Council%20-%20Tony%20Green%20(Carmel).md)
+- **At-Large**: [Rich Taylor](../../Profiles/City/City%20Council%20-%20Rich%20Taylor%20(Carmel).md)
+- **At-Large**: [Jeff Worrell](../../Profiles/City/City%20Council%20-%20Jeff%20Worrell%20(Carmel).md)
+- **District 2**: [Shannon Minnaar](../../Profiles/City/City%20Council%20-%20Shannon%20Minnaar%20(Carmel).md)
+- **District 3**: [Adam Aasen](../../Profiles/City/City%20Council%20-%20Adam%20Aasen%20(Carmel).md)
+- **District 6**: [Anita Joshi](../../Profiles/City/City%20Council%20-%20Anita%20Joshi%20(Carmel).md)
+
 ## Related Positions
 - [City Mayor](City%20Mayor.md)
 - [County Council](../Offices/County/County%20Council.md)

@@ -61,7 +61,7 @@ Members of the U.S. House of Representatives are elected from congressional dist
 
 ## Indiana's 5th Congressional District
 - **Covers:** Hamilton County (entirely), parts of Marion County and surrounding areas
-- **Current Representative:** Victoria Spartz (R) - Since 2021
+- **Current Representative:** [Victoria Spartz](../../Profiles/Federal/U.S.%20Representative%20-%205th%20District%20-%20Victoria%20Spartz.md) (R) - Since 2021
 - Includes: Carmel, Fishers, Noblesville, Westfield, northern Indianapolis suburbs
 
 ## Related Positions

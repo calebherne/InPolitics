@@ -55,10 +55,10 @@ Hamilton County cities (Carmel, Fishers, Noblesville, Westfield) use a **mayor-c
 - Controls pace and focus of city projects
 
 ## Major Cities in Hamilton County
-- **Carmel** - 5th largest city in Indiana
-- **Fishers** - 6th largest city in Indiana
-- **Noblesville** - 12th largest city in Indiana (county seat)
-- **Westfield**
+- **Carmel** - 5th largest city in Indiana - [Sue Finkam](../../Profiles/City/City%20Mayor%20-%20Sue%20Finkam%20(Carmel).md)
+- **Fishers** - 6th largest city in Indiana - [Scott Fadness](../../Profiles/City/City%20Mayor%20-%20Scott%20Fadness%20(Fishers).md)
+- **Noblesville** - 12th largest city in Indiana (county seat) - [Chris Jensen](../../Profiles/City/City%20Mayor%20-%20Chris%20Jensen%20(Noblesville).md)
+- **Westfield** - [Scott Willis](../../Profiles/City/City%20Mayor%20-%20Scott%20Willis%20(Westfield).md)
 - **Sheridan** (town)
 - **Cicero** (town)
 - **Arcadia** (town)

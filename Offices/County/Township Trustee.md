@@ -66,6 +66,16 @@
 - Dispute resolution builds community relationships
 - Zoning involvement affects development (where applicable)
 
+## Current Township Trustees (Hamilton County)
+- **Clay Township**: [Paul Hensel](../../Profiles/County/Township%20Trustee%20-%20Paul%20Hensel%20(Clay).md)
+- **Delaware Township**: [Debbie Driskell](../../Profiles/County/Township%20Trustee%20-%20Debbie%20Driskell%20(Delaware).md)
+- **Fall Creek Township**: [Doug Allman](../../Profiles/County/Township%20Trustee%20-%20Doug%20Allman%20(Fall%20Creek).md)
+- **Jackson Township**: [Robyn Cook](../../Profiles/County/Township%20Trustee%20-%20Robyn%20Cook%20(Jackson).md)
+- **Noblesville Township**: [Theresa Caldwell](../../Profiles/County/Township%20Trustee%20-%20Theresa%20Caldwell%20(Noblesville).md)
+- **Washington Township**: [Jamie Goetz Mills](../../Profiles/County/Township%20Trustee%20-%20Jamie%20Goetz%20Mills%20(Washington).md)
+- **Wayne Township**: [Laura McNamara](../../Profiles/County/Township%20Trustee%20-%20Laura%20McNamara%20(Wayne).md)
+- **White River Township**: [Jamie Rulon](../../Profiles/County/Township%20Trustee%20-%20Jamie%20Rulon%20(White%20River).md)
+
 ## Assisted By
 - [Township Board](Township%20Board.md) (3 members)
 

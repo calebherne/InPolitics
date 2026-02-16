@@ -56,9 +56,9 @@
 - Party leadership positions multiply influence
 - Relationship with president affects Indiana priorities
 
-## Current Indiana Senators
-- **Todd Young** (R) - Elected 2016, up for reelection 2028
-- **Jim Banks** (R) - Elected 2024, up for reelection 2030
+## Current Office Holders
+- **[Todd Young](../../Profiles/Federal/U.S.%20Senator%20-%20Todd%20Young.md)** (R) - Elected 2016, up for reelection 2028
+- **[Jim Banks](../../Profiles/Federal/U.S.%20Senator%20-%20Jim%20Banks.md)** (R) - Elected 2024, up for reelection 2030
 
 ## Related Positions
 - [U.S. Representative](U.S.%20Representative.md)
